@@ -7,5 +7,5 @@
 ## Skills
 
 ## How to reach me
-
+add email e linkedin
 -->
