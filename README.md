@@ -1,4 +1,6 @@
+<!---
 <img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=grigolin&show_icons=true&theme=prussian&hide=contribs" align="right">
+--->
 
 <p align="left"> 
   Studying Information Systems @ <strong>Federal Institute of São Paulo - IFSP</strong><br>
