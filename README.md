@@ -2,13 +2,13 @@
 <img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=grigolin&show_icons=true&theme=prussian&hide=contribs" align="right">
 --->
 <p> 
-  Software Engineer focused on Full-Stack development.<br>
+  Software Engineer interested on Full-Stack development.<br>
   Studying Information Systems @ <strong>Federal Institute of São Paulo - IFSP</strong><br>
 </p>
 
+<!---
 <p>
   Skills:
-  
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=red)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -16,7 +16,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS)
 </p>
-
+--->
 <p>
   Contact me:
 </p>
