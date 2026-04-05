@@ -24,6 +24,6 @@
 <p>
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&link=mailto:guigrigolin@gmail.com)](mailto:guigrigolin@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermegrigolin/)](https://www.linkedin.com/in/guilhermegrigolin/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grigolin/)](https://www.linkedin.com/in/grigolin/)
 [![GitHub Badge](https://img.shields.io/github/followers/grigolin?label=Github&style=social)](https://github.com/grigolin/)
 </p>  
