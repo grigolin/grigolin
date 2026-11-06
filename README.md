@@ -4,6 +4,4 @@ AI Engineer at [Concurrences](https://www.concurrences.com/), building a legal r
 
 Before that: Solana liquidity infrastructure and pricing bots at Triad Markets, and an LLM legal-analysis engine at LISS Legal Intelligence. Finishing a B.S. in Information Systems at IFSP. São Paulo, Brazil.
 
-**Stack:** Python · Go · TypeScript · SQL · LangChain · FastAPI · PostgreSQL · Docker · AWS
-
 [grigolin.org](https://grigolin.org) · [LinkedIn](https://www.linkedin.com/in/grigolin/) · [guigrigolin@gmail.com](mailto:guigrigolin@gmail.com)
